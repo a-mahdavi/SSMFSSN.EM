@@ -1,10 +1,10 @@
 Package: SSMFSSN.EM
 Type: Package
-Title: EM algorithms for the multivaraite SSMFSSN distributions
+Title: EM algorithms for the multivariate SSMFSSN distributions
 Version: 0.1.0
 Author: A.Mahdavi
 Maintainer: The package maintainer <a.mahdavi@vru.ac.ir>
-Description: EM algorithms for the multivaraite SSMFSSN distributions
+Description: EM algorithms for the multivariate SSMFSSN distributions
 Encoding: UTF-8
 LazyData: true
 NeedsCompilation: no
